@@ -1,0 +1,13 @@
+{
+  "session_id": "26c9aaa7-b957-49a3-b49b-3b610289e26a",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Play some music"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    }
+  ]
+}

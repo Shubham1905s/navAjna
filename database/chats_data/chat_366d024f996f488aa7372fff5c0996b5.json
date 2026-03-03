@@ -1,0 +1,45 @@
+{
+  "session_id": "366d024f-996f-488a-a737-2fff5c0996b5",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tell me a fun fact"
+    },
+    {
+      "role": "assistant",
+      "content": "The shortest war in history was between Britain and Zanzibar on August 27, 1896, and lasted only 38 minutes. Zanzibar surrendered after just 12 minutes of fighting, and the entire war lasted a total of 38 minutes from start to finish."
+    },
+    {
+      "role": "user",
+      "content": "open youtube"
+    },
+    {
+      "role": "assistant",
+      "content": "Opening that for you."
+    },
+    {
+      "role": "user",
+      "content": "you have not opened"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll try again, Sir. Opening YouTube for you."
+    },
+    {
+      "role": "user",
+      "content": "open youtube"
+    },
+    {
+      "role": "assistant",
+      "content": "Opening YouTube for you."
+    },
+    {
+      "role": "user",
+      "content": "tell me todays news"
+    },
+    {
+      "role": "assistant",
+      "content": "There's been a significant development in the US-Iran conflict, Sir. The US and Israel have launched a joint military operation against Iran, resulting in the death of Iranian Supreme Leader Ayatollah Ali Khamenei. The situation is ongoing, with reports of explosions and airstrikes in Tehran. Additionally, there have been reports of a mass shooting in Austin, Texas, and a drone attack on the US embassy in Riyadh, Saudi Arabia. I can provide more details if you'd like."
+    }
+  ]
+}
