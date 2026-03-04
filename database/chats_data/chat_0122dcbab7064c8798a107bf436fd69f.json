@@ -1,0 +1,21 @@
+{
+  "session_id": "0122dcba-b706-4c87-98a1-07bf436fd69f",
+  "messages": [
+    {
+      "role": "user",
+      "content": "goodeveining"
+    },
+    {
+      "role": "assistant",
+      "content": "Good evening, I'm here to help you with anything you need."
+    },
+    {
+      "role": "user",
+      "content": "hii"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, how can I assist you tonight, Sir?"
+    }
+  ]
+}
